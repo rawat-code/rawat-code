@@ -9,7 +9,6 @@
 <br/>
 
 ![Academic](https://img.shields.io/badge/B.Tech-Computer%20Science-6D28D9?style=flat-square&logo=googlescholar&logoColor=white)
-📍 Ajmer, India
 
 <br/>
 
@@ -141,17 +140,6 @@ A comprehensive personal-assistant system integrating speech interfaces, LLM pro
 
 </div>
 
----
-
-## 🏅 GitHub Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=rawat-code&theme=discord&no-frame=true&row=1&column=7&margin-w=8&margin-h=8" width="100%"/>
-
-</div>
-
----
 
 ## 📈 Contribution Activity
 
