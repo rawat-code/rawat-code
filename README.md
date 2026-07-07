@@ -9,8 +9,7 @@
 <br/>
 
 ![Academic](https://img.shields.io/badge/B.Tech-Computer%20Science-6D28D9?style=flat-square&logo=googlescholar&logoColor=white)
-![University](https://img.shields.io/badge/University-Your%20University-4C1D95?style=flat-square&logo=academia&logoColor=white)
-![Location](https://img.shields.io/badge/Based%20in-Ajmer%2C%20India-7C3AED?style=flat-square&logo=googlemaps&logoColor=white)
+📍 Ajmer, India
 
 <br/>
 
@@ -20,8 +19,6 @@
 <br/><br/>
 
 ![Profile Views](https://komarev.com/ghpvc/?username=rawat-code&color=7c3aed&style=flat-square&label=Profile+Views)
-![Followers](https://img.shields.io/github/followers/rawat-code?color=6D28D9&style=flat-square&label=Followers)
-![Stars](https://img.shields.io/github/stars/rawat-code?color=8B5CF6&style=flat-square&label=Stars)
 
 </div>
 
@@ -68,23 +65,6 @@ Still learning a lot, still figuring things out, and always up for the next hack
 ### Cloud, DevOps & Tooling
 <div align="left">
 <img src="https://skillicons.dev/icons?i=aws,gcp,docker,kubernetes,githubactions,git,linux,nginx&theme=dark" />
-</div>
-
----
-
-## 🤖 AI / ML Expertise
-
-<div align="center">
-
-| Domain | Proficiency | Details |
-|---|:---:|---|
-| **LLM Integration** | ⭐⭐⭐⭐⭐ | Anthropic Claude API, OpenAI API, prompt engineering, RAG pipelines |
-| **Machine Learning** | ⭐⭐⭐⭐ | Scikit-learn, model evaluation, feature engineering |
-| **Deep Learning** | ⭐⭐⭐⭐ | PyTorch, TensorFlow, CNNs, transformer architectures |
-| **NLP** | ⭐⭐⭐⭐ | Text classification, embeddings, semantic search |
-| **MLOps** | ⭐⭐⭐ | Model deployment, versioning, monitoring pipelines |
-| **Data Engineering** | ⭐⭐⭐⭐ | ETL pipelines, data preprocessing, vector databases |
-
 </div>
 
 ---
@@ -154,10 +134,10 @@ A comprehensive personal-assistant system integrating speech interfaces, LLM pro
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=rawat-code&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d0221&title_color=a78bfa&icon_color=8b5cf6&text_color=e9d5ff&count_private=true" width="49%"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=rawat-code&theme=tokyonight&hide_border=true&background=0d0221&ring=8b5cf6&fire=a78bfa&currStreakLabel=e9d5ff" width="49%"/>
+<img src="https://github-readme-stats.vercel.app/api?username=rawat-code&show_icons=true&theme=radical&hide_border=true&bg_color=0d0221&title_color=c4b5fd&icon_color=a78bfa&text_color=e9d5ff&border_radius=10&card_width=440" width="48%"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=rawat-code&theme=radical&hide_border=true&background=0d0221&ring=a78bfa&fire=c4b5fd&currStreakLabel=e9d5ff&sideLabels=e9d5ff&dates=8b5cf6&border_radius=10&card_width=440" width="48%"/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rawat-code&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d0221&title_color=a78bfa&text_color=e9d5ff" width="49%"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rawat-code&layout=compact&theme=radical&hide_border=true&bg_color=0d0221&title_color=c4b5fd&text_color=e9d5ff&border_radius=10&langs_count=8&card_width=440" width="48%"/>
 
 </div>
 
@@ -187,7 +167,11 @@ A comprehensive personal-assistant system integrating speech interfaces, LLM pro
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/rawat-code/rawat-code/output/github-contribution-grid-snake-dark.svg" width="100%"/>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/rawat-code/rawat-code/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/rawat-code/rawat-code/output/github-contribution-grid-snake.svg" />
+  <img alt="github contribution snake animation" src="https://raw.githubusercontent.com/rawat-code/rawat-code/output/github-contribution-grid-snake.svg" width="100%"/>
+</picture>
 
 </div>
 
