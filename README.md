@@ -9,8 +9,8 @@
 <br/>
 
 ![Academic](https://img.shields.io/badge/B.Tech-Computer%20Science-6D28D9?style=flat-square&logo=googlescholar&logoColor=white)
-![University](https://img.shields.io/badge/University-Your%20University-4C1D95?style=flat-square&logo=academia&logoColor=white)
-![Location](https://img.shields.io/badge/Based%20in-Ajmer%2C%20India-7C3AED?style=flat-square&logo=googlemaps&logoColor=white)
+
+![Location](https://img.shields.io/badge/Ajmer%2C%20India-7C3AED?style=flat-square&logo=googlemaps&logoColor=white)
 
 <br/>
 
