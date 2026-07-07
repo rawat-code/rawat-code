@@ -8,8 +8,7 @@
 
 <br/>
 
-![Academic](https://img.shields.io/badge/B.Tech-Computer%20Science-6D28D9?style=flat-square&logo=googlescholar&logoColor=white)
-📍 Ajmer, India
+![Location](https://img.shields.io/badge/📍-Ajmer%2C%20India-7C3AED?style=flat-square&logoColor=white)
 
 <br/>
 
