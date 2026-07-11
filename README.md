@@ -30,16 +30,7 @@ I'm not chasing buzzwords; I just enjoy the process of taking an idea, wiring up
 
 Still learning a lot, still figuring things out, and always up for the next hackathon.
 
-<div align="center">
 
-### 💼 Open To
-
-![Open to Work](https://img.shields.io/badge/Open%20To-Software%20Engineering%20Roles-7C3AED?style=flat-square)
-![Open to Work](https://img.shields.io/badge/Open%20To-AI%2FML%20Engineering-6D28D9?style=flat-square)
-![Open to Work](https://img.shields.io/badge/Open%20To-Full%20Stack%20Development-4C1D95?style=flat-square)
-![Open to Work](https://img.shields.io/badge/Open%20To-Freelance%20%2F%20Contract-8B5CF6?style=flat-square)
-
-</div>
 
 ---
 
