@@ -99,7 +99,6 @@ Designed as a rapid-build hackathon entry, this project demonstrates the ability
 </details>
 
 <details>
-<summary><b>🧩 Jarvis v2.0 — Iron Man-Style Desktop AI Assistant</b></summary>
 <br/>
 
 A full-scale Python desktop AI assistant featuring wake-word activation, speech recognition, natural-sounding text-to-speech, and multi-provider LLM integration, wrapped in a custom PyQt6 interface.
