@@ -98,23 +98,7 @@ Designed as a rapid-build hackathon entry, this project demonstrates the ability
 
 </details>
 
-<details>
-<br/>
 
-A full-scale Python desktop AI assistant featuring wake-word activation, speech recognition, natural-sounding text-to-speech, and multi-provider LLM integration, wrapped in a custom PyQt6 interface.
-
-| Attribute | Detail |
-|---|---|
-| **Stack** | Python, PyQt6, faster-whisper, Edge TTS, Playwright, SQLite |
-| **Scale** | Modular plugin-based architecture |
-| **Performance** | Real-time speech-to-text and low-latency voice response |
-| **Security** | Local SQLite memory store, sandboxed system commands |
-| **Impact** | Personal AI assistant with browser and system automation capability |
-| **Repository** | [github.com/rawat-code/jarvis-v2](https://github.com/rawat-code/jarvis-v2) |
-
-A comprehensive personal-assistant system integrating speech interfaces, LLM providers (Anthropic, OpenAI, Ollama), and automation tooling into a single cohesive desktop application with a plugin-based extensibility model.
-
-</details>
 
 ---
 
