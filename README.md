@@ -79,27 +79,6 @@ Built as a hackathon submission, this project emphasizes both engineering comple
 
 </details>
 
-<details>
-<summary><b>⚡ The Last-Minute Life Saver — AI Productivity Companion</b></summary>
-<br/>
-
-A single-file, instantly deployable AI productivity companion combining task management, habit tracking, a calendar view, and analytics — built for rapid hackathon deployment via Netlify Drop.
-
-| Attribute | Detail |
-|---|---|
-| **Stack** | HTML, CSS, Vanilla JavaScript |
-| **Scale** | Single-file, zero-dependency architecture |
-| **Performance** | Lightweight, instant load, no backend latency |
-| **Security** | Fully client-side, no external data exposure |
-| **Impact** | Built for the Vibe2Code hackathon under tight time constraints |
-| **Repository** | [github.com/rawat-code/last-minute-life-saver](https://github.com/rawat-code/last-minute-life-saver) |
-
-Designed as a rapid-build hackathon entry, this project demonstrates the ability to ship a complete, multi-feature productivity tool as a single deployable file — including a simulated AI assistant driven by lightweight keyword-matching logic.
-
-</details>
-
-
-
 ---
 
 ## 📊 GitHub Analytics
